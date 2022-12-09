@@ -1,0 +1,7 @@
+tay/b,m/b,l/
+bb/bisou,int/test,varcher/
+bol/but,int/nn,string/
+ty/vv,int
+personne/prenom,int
+olona/l,int/p,real
+tyy/mm,int/
